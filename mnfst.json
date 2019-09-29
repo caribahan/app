@@ -1,0 +1,36 @@
+{
+  "short_name": "RevSitus",
+  "name": "Review Situs",
+  "icons": [
+	{
+    "src": "https://1.bp.blogspot.com/-c45JKZdBQ1k/XYjcsL7SLRI/AAAAAAAACKo/ZpbN9jKU5bcj01xVEPy_YX4LDBQDsKpsQCPcBGAYYCw/s128/ICON.png",
+    "type": "image/png",
+    "sizes": "128x128"
+	}, 
+	{
+    "src": "https://1.bp.blogspot.com/-c45JKZdBQ1k/XYjcsL7SLRI/AAAAAAAACKo/ZpbN9jKU5bcj01xVEPy_YX4LDBQDsKpsQCPcBGAYYCw/s144/ICON.png",
+    "type": "image/png",
+    "sizes": "144x144"
+	}, 
+	{
+    "src": "https://1.bp.blogspot.com/-c45JKZdBQ1k/XYjcsL7SLRI/AAAAAAAACKo/ZpbN9jKU5bcj01xVEPy_YX4LDBQDsKpsQCPcBGAYYCw/s152/ICON.png",
+    "type": "image/png",
+    "sizes": "152x152"
+	}, 
+    {
+      "src": "https://1.bp.blogspot.com/-c45JKZdBQ1k/XYjcsL7SLRI/AAAAAAAACKo/ZpbN9jKU5bcj01xVEPy_YX4LDBQDsKpsQCPcBGAYYCw/s192/ICON.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-c45JKZdBQ1k/XYjcsL7SLRI/AAAAAAAACKo/ZpbN9jKU5bcj01xVEPy_YX4LDBQDsKpsQCPcBGAYYCw/s512/ICON.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://caribahan.online/?utm_source=homescreen",
+  "background_color": "#4d90fe",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#4d90fe"
+}
