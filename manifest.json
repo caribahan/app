@@ -28,7 +28,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "http://www.caribahan.online/?utm_source=homescreen",
+  "start_url": "https://caribahan.online/?utm_source=homescreen",
   "background_color": "#4d90fe",
   "display": "standalone",
   "orientation": "portrait",
